@@ -9,10 +9,9 @@ cd an2website
 ```
 
 ###Open project in WebStorm
-Install the npm packages and run the app:
-```bash
-npm install
-```
+Click the File>Open and choose the project folder:
+![Open project](New Project.jpg)
+
 
 ###Install npm packages
 Install the npm packages and run the app:

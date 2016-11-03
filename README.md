@@ -10,6 +10,7 @@ cd an2website
 
 ###Open project in WebStorm
 Click the File>Open and choose the project folder:
+
 ![Open project](New Project.jpg)
 
 

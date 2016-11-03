@@ -5,7 +5,6 @@ This is my first Angular 2 Website App
 Clone this repo into any folder.
 ```bash
 git clone  https://github.com/FL4X/an2website.git
-cd an2website
 ```
 
 ###Open project in WebStorm

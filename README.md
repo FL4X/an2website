@@ -13,14 +13,6 @@ Click the File>Open and choose the project folder:
 
 ![Open project](New Project.jpg)
 
-
-###Install npm packages
-Install the npm packages and run the app:
-
-```bash
-npm install
-```
-
 ###Run the app
 Run the app in your browser:
 
